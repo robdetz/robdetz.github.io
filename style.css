@@ -1,0 +1,31 @@
+body{
+    background-image: url("background.png");
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 50px;
+    
+    
+    
+}
+h1{
+    color:white;
+    font-size: 70px;
+    font-family: fantasy;
+    margin-left:30px;
+    margin-bottom:2px;
+}
+/* .picture_link{
+    height: 200px;
+    width: 100px;
+} */
+img{
+    width:300px;
+    display: inline;
+    border-radius: 50px;
+    padding: 40px;
+    margin-left: 60px;
+    
+}

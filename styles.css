@@ -1,0 +1,56 @@
+
+body {
+background-image: url("Skull  Crossbones1.jpg");
+background-size: cover;
+}
+
+.linx {
+    position: relative;
+    height: 150px;
+    top: 200px;
+    left: 100px;
+}
+
+.logo {
+    position: sticky;
+    height: 100px;
+}
+
+p {
+    text-align: center;
+    color: rgb(255, 255, 255)
+}
+
+#title {
+    background-color: black;
+    background-size: 400px, 100px;
+    color: white;
+    position: absolute;
+    left: 500px;
+}
+
+#logo1 {
+    position: absolute;
+    left: 20px;
+
+}
+
+#logo2{
+    position: absolute;
+    right: 20px;
+
+}
+
+#crew{
+    position: absolute;
+    top: 400px;
+    height: 500px;
+    width: 1500px;
+    left: 100px;
+}
+
+article img{
+    position: absolute;
+    top: 1000px;
+    height: 100px;
+}

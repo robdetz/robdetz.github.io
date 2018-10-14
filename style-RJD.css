@@ -1,0 +1,28 @@
+body{
+    background-color: darkred;
+    background-image: url("Skull & Crossbones2.png");
+    background-size: cover;
+}
+
+p{
+    color: purple;
+    font-size: 50px
+}
+ul{
+    list-style-type : lower-greek;;
+    list-style: none;
+}
+li{
+    color:green
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}
+.potato{
+    color: red;
+}
+#candy{
+    color: green;
+}
